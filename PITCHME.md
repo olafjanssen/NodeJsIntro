@@ -1,5 +1,5 @@
 @title[Node.js® introductie]
-# Introductie van Node.JS
+# Inleiding op Node.JS
 
 #### Met voorbeelden en Q&A
 
@@ -64,7 +64,7 @@ Met `node <file.js>` start je code uit een js-file. Dit kan je stoppen met `CTRL
 
 Start je eigen project met het commando `npm init`, dit maakt een `package.json` file in je project.
 
-Voeg modules toe met `npm install --save <modulenaam>'. Vaak zie je dit ook staan in Gitgub repo READMEs.
+Voeg modules toe met `npm install --save <modulenaam>`. Vaak zie je dit ook staan in Gitgub repo READMEs.
 
 ---
 @title[Toepassingen: web server]

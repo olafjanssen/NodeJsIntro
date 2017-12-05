@@ -12,3 +12,8 @@
     margin-left: 0;
     margin-right: 0;
 }
+
+/* short code block styling */
+.reveal section p code {
+    color: skyblue;
+}
