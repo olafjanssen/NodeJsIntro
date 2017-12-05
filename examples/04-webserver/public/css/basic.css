@@ -1,0 +1,18 @@
+
+p {
+    font-weight: bold;
+    margin: 3em;
+}
+
+p.turn {
+    width: 12em;
+    cursor: pointer;
+    display: block;
+    line-height: 2em;
+    transition: 1s ease;
+    transform-origin: center center;
+}
+
+p.turn:hover {
+    transform: rotate(180deg);
+}
