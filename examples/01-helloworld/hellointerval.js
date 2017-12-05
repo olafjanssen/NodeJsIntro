@@ -4,7 +4,6 @@
  * Basisvoorbeeld voor Node.js, met een interval.
  *
  * @author Olaf Janssen (olaf.janssen@fontys.nl)
- *
  */
 
 // Je kan alle standaard JavaScript dingen doen in je code.

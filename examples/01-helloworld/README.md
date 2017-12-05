@@ -3,7 +3,7 @@
 ### Vind de folder
 Vind deze folder met je command prompt of terminal. Start de OSX `terminal` app op of klik op de link in Windows met de naam `Node.js Command Prompt`.
 
-Ga dan naar de juiste folder, waar dit voorbeeld in staat. (Voor Windows gebruikers.)
+Ga dan naar de juiste folder, waar dit voorbeeld in staat (voor Windows gebruikers):
 
 ```bash
 cd NodeJsIntro\examples\01-helloworld
@@ -17,15 +17,13 @@ Als Node.js correct werkt kan je de versie opvragen:
 node -v
 ```
 
-Werkt dit niet? Check dan of je de juiste Command Prompt hebt opgestart (die Node.js environment variabelen goed zet).
-
-Als het wel werkt kan je Node.js starten met
+Werkt dit niet? Check dan of je de juiste Command Prompt hebt opgestart. Als het wel werkt kan je Node.js starten met:
 
 ```bash
 node
 ```
 
-Je komt dan in een soort console terecht (heet officieel REPL), waarin je JavaScript kan typen. Probeer eens iets te console-loggen:
+Je komt dan in een soort console terecht (heet officieel [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)), waarin je JavaScript kan typen. Probeer eens iets te console-loggen:
 
 ```javascript
 > console.log('Hello World!');
