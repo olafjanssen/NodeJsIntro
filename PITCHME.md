@@ -4,6 +4,14 @@
 #### Met voorbeelden en Q&A
 
 ---
+@title[Voor we beginnen]
+# Voordat we beginnen
+
+#### Bekijk de presentatie via [GitPitch](https://gitpitch.com/olafjanssen/NodeJsIntro)
+#### Download de voorbeelden op [Github](https://github.com/olafjanssen/NodeJsIntro)
+
+---
+
 @title[Wat is Node.js®]
 # Wat is Node.js®
 
