@@ -48,11 +48,23 @@ Code edit je gewoon in je *code editor*, maar het runnen, debuggen en modules to
 
 Als je hier nog nooit mee gewerkt hebt, is het nu tijd daarvoor!
 
-* Download the cheat sheet voor [Windows](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf) of [Mac OSX/linux](https://www.git-tower.com/blog/posts/command-line-cheat-sheet)
+* Download the **cheat sheet** voor [Windows](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf) of [Mac OSX/linux](https://www.git-tower.com/blog/posts/command-line-cheat-sheet)
+
+---
+@title[Node.js runnen]
+### Node.js® runnen 
+
+Met `node` kan je code typen net als in de browser console.
+
+Met `node <file.js>` start je code uit een js-file. Dit kan je stoppen met `CTRL-C`.
 
 ---
 @title[NPM Package management]
-# NPM Package management
+## NPM Package management
+
+Start je eigen project met het commando `npm init`, dit maakt een `package.json` file in je project.
+
+Voeg modules toe met `npm install --save <modulenaam>'. Vaak zie je dit ook staan in Gitgub repo READMEs.
 
 ---
 @title[Toepassingen: web server]
