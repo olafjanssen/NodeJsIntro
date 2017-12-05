@@ -5,7 +5,7 @@
 
 ---
 @title[Voor we beginnen]
-### Voordat we beginnen
+## Voordat we beginnen
 
 #### Bekijk de presentatie via [GitPitch](https://gitpitch.com/olafjanssen/NodeJsIntro)
 #### Download de voorbeelden op [Github](https://github.com/olafjanssen/NodeJsIntro)
@@ -13,7 +13,7 @@
 ---
 
 @title[Wat is Node.js®]
-### Wat is Node.js®
+## Wat is Node.js®
 
 * **Kort:** Server-side JavaScript
 * **Langer:** Heel efficient netwerk-applicatie framework.
@@ -22,18 +22,18 @@
 
 ---
 @title[Voordelen Node.js®]
-### Voordelen Node.js®
+## Voordelen Node.js®
 
-* Snel (vergeleken met JavaScript in browser)
-* Efficient als server (dan bijv. Apache server) 
-* Uitgebreid ecosysteem (NPM package manager) en dus te gebruiken met allerlei devices en andere software.
-* Alles async (wel lastig programmeren)
+* **Snel** (vergeleken met JavaScript in browser)
+* **Efficient** als server (dan bijv. Apache server) 
+* Uitgebreid ecosysteem (**NPM** package manager) en dus te gebruiken met allerlei devices en andere software.
+* Alles **async** (wel lastig programmeren)
 
 ---
 @title[Installatie]
 ### Installatie
 
-![logo](https://nodejs.org/static/images/logo.svg)
+![logo](https://udemy-images.udemy.com/course/750x422/595294_bc81.jpg)
 
 ---
 @title[Intro CLI]
