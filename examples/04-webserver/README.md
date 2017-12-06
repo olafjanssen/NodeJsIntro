@@ -13,13 +13,13 @@ Voordat we het voorbeeld kunnen uitproberen moeten we eerst de modules installer
 npm install
 ``` 
 
-Als we nu de applicatie opstarten met:
+We kunnen nu de applicatie opstarten met:
 
 ```bash
 node index.js
 ```
 
-Dat zal er als het goed is verschijnen dat de server luistert op poort 8080. We kunnen nu met de browser naar `localhost:8080` navigeren. Hier krijg je te zien dat de server werkt.
+Dan zal er als het goed is verschijnen dat de server luistert op poort 8080. We kunnen nu met de browser naar `localhost:8080` navigeren. Hier krijg je te zien dat de server werkt.
 
 ### Drie manieren van content leveren aan de browser
 Als je naar de code kijkt in `index.js` dat vind je drie manieren om als server data terug te geven aan de browser, die je alle drie nodig kan hebben.
