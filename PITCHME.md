@@ -114,8 +114,8 @@ Een typisch web stack:
 Zet snel een goede en mooie API op met [Restify](http://restify.com/).
 
 ---
-@title[Toepassingen: web sockets]
-## Node.js® met web sockets
+@title[Toepassingen: WebSockets]
+## Node.js® met WebSockets
 
 Real-time communicatie met web client (data-streaming, visualisatie van bijv. Arduino/Kinect-data, chat room).
 
