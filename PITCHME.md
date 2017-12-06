@@ -72,7 +72,6 @@ Voeg modules toe met `npm install --save <modulenaam>`. Vaak zie je dit ook staa
 
 Gebruiken en inladen van modules.
 
-
 ---
 @title[Basis Node.js®: modules maken]
 ## Basis Node.js®
@@ -93,6 +92,8 @@ Een typisch web stack
 @title[Toepassingen: API]
 ## Node.js® als API
 
+Zet snel een goede en mooie API op met Restify.
+
 ---
 @title[Toepassingen: web sockets]
 ## Node.js® met web sockets
@@ -112,8 +113,7 @@ Naast modules voor MySQL, is het ook eenvoudig te verbinden met Firebase of Mong
 @title[Tips]
 ## Tips
 
-* 
-
+* **NodeMon** module refreshed automatisch je webserver als je aanpassingen aan je code hebt gemaakt.
 
 ---
 
