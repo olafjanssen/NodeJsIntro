@@ -1,5 +1,5 @@
 /**
- * 04-api index.js
+ * 05-api index.js
  *
  * Een basis API met restify
  *
