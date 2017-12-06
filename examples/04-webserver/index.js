@@ -39,6 +39,7 @@ app.listen(port, function () {
  */
 app.get('/', function (req, res, next) {
     res.send('De server werkt, maar je bent hier niet welkom!');
+    next();
 });
 
 // als je naar /welkom navigeert, vul dan de template welkom.jade met de gegeven data en geef dit terug aan de browser
@@ -47,5 +48,6 @@ app.get('/welkom', function (req, res, next) {
         title: 'Mijn pagina',
         name: 'Pino'
     });
+    next();
 });
 

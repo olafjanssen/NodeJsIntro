@@ -1,5 +1,7 @@
 # Voorbeelden
 
+Elke folder bevat een README.md met uitleg en instructies.
+
 * [01-helloworld](01-helloworld) - Oefenen met basis.
 * [02-modules](02-modules) - Gebruiken en maken van modules.
 * [03-npm](03-npm) - Externe modules toevoegen met npm.

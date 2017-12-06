@@ -1,5 +1,9 @@
 # NodeJsIntro
-Materials for a Node.JS introduction workshop
+Materials for a Node.JS introduction workshop. 
+The remainder of the materials will be in Dutch.
+
+You can view the presentation at [https://gitpitch.com/olafjanssen/NodeJsIntro](https://gitpitch.com/olafjanssen/NodeJsIntro).
+
 
 ## Attributions
 * Command Prompt Cheat Sheet, taken from [Columbia University](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf).
